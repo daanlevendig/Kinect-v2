@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Kinect_Run\Assets\MyScripts\CylinderController.cs">
+    <Files>
+      <File FileName="..\Kinect_Run\Assets\MyScripts\CylinderController.cs" Line="162" Column="1" />
+      <File FileName="..\Kinect_Run\Assets\MyScripts\GameOver.cs" Line="1" Column="1" />
+      <File FileName="..\Kinect_Run\Assets\MyScripts\FarPlaneRenderer.cs" Line="18" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,9 @@
+0-79			March
+0-33			JumpingJacks
+0-128			LateralRaise
+0-179			Front Raise
+0-139			Squat
+0-104			WindMill
+0-63			FrontRotation
+----			Kick
+----			Lunge

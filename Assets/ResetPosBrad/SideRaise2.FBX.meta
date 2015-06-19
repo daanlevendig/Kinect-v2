@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 4a7c12ac102bec74db490ddd8ee70322
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: abdomen
+    100002: abdomen2
+    100004: Bip001
+    100006: Bip001 Footsteps
+    100008: Bip001 Head
+    100010: Bip001 HeadNub
+    100012: Bip001 L Calf
+    100014: Bip001 L Clavicle
+    100016: Bip001 L Finger0
+    100018: Bip001 L Finger01
+    100020: Bip001 L Finger0Nub
+    100022: Bip001 L Finger1
+    100024: Bip001 L Finger11
+    100026: Bip001 L Finger12
+    100028: Bip001 L Finger1Nub
+    100030: Bip001 L Finger2
+    100032: Bip001 L Finger21
+    100034: Bip001 L Finger22
+    100036: Bip001 L Finger2Nub
+    100038: Bip001 L Finger3
+    100040: Bip001 L Finger31
+    100042: Bip001 L Finger32
+    100044: Bip001 L Finger3Nub
+    100046: Bip001 L Finger4
+    100048: Bip001 L Finger41
+    100050: Bip001 L Finger42
+    100052: Bip001 L Finger4Nub
+    100054: Bip001 L Foot
+    100056: Bip001 L Forearm
+    100058: Bip001 L Hand
+    100060: Bip001 L Thigh
+    100062: Bip001 L Toe0
+    100064: Bip001 L Toe0Nub
+    100066: Bip001 L UpperArm
+    100068: Bip001 Neck
+    100070: Bip001 Pelvis
+    100072: Bip001 R Calf
+    100074: Bip001 R Clavicle
+    100076: Bip001 R Finger0
+    100078: Bip001 R Finger01
+    100080: Bip001 R Finger0Nub
+    100082: Bip001 R Finger1
+    100084: Bip001 R Finger11
+    100086: Bip001 R Finger12
+    100088: Bip001 R Finger1Nub
+    100090: Bip001 R Finger2
+    100092: Bip001 R Finger21
+    100094: Bip001 R Finger22
+    100096: Bip001 R Finger2Nub
+    100098: Bip001 R Finger3
+    100100: Bip001 R Finger31
+    100102: Bip001 R Finger32
+    100104: Bip001 R Finger3Nub
+    100106: Bip001 R Finger4
+    100108: Bip001 R Finger41
+    100110: Bip001 R Finger42
+    100112: Bip001 R Finger4Nub
+    100114: Bip001 R Foot
+    100116: Bip001 R Forearm
+    100118: Bip001 R Hand
+    100120: Bip001 R Thigh
+    100122: Bip001 R Toe0
+    100124: Bip001 R Toe0Nub
+    100126: Bip001 R UpperArm
+    100128: Bip001 Spine
+    100130: Bip001 Spine1
+    100132: Bip001 Spine2
+    100134: Boxers for Genesis.Shape
+    100136: chest
+    100138: Genesis
+    100140: Genesis.Shape
+    100142: head
+    100144: hip
+    100146: lBigToe
+    100148: lCarpal1
+    100150: lCarpal2
+    100152: lCollar
+    100154: lEye
+    100156: lFoot
+    100158: lForeArm
+    100160: lHand
+    100162: lIndex1
+    100164: lIndex2
+    100166: lIndex3
+    100168: lMid1
+    100170: lMid2
+    100172: lMid3
+    100174: lowerJaw
+    100176: lPectoral
+    100178: lPinky1
+    100180: lPinky2
+    100182: lPinky3
+    100184: lRing1
+    100186: lRing2
+    100188: lRing3
+    100190: lShin
+    100192: lShldr
+    100194: lThigh
+    100196: lThumb1
+    100198: lThumb2
+    100200: lThumb3
+    100202: lToe
+    100204: neck
+    100206: pelvis
+    100208: rBigToe
+    100210: rCarpal1
+    100212: rCarpal2
+    100214: rCollar
+    100216: rEye
+    100218: rFoot
+    100220: rForeArm
+    100222: rHand
+    100224: rIndex1
+    100226: rIndex2
+    100228: rIndex3
+    100230: rMid1
+    100232: rMid2
+    100234: rMid3
+    100236: rPectoral
+    100238: rPinky1
+    100240: rPinky2
+    100242: rPinky3
+    100244: rRing1
+    100246: rRing2
+    100248: rRing3
+    100250: rShin
+    100252: rShldr
+    100254: rThigh
+    100256: rThumb1
+    100258: rThumb2
+    100260: rThumb3
+    100262: rToe
+    100264: //RootNode
+    100266: Sneakers.Shape
+    100268: tongue01
+    100270: tongue02
+    100272: tongue03
+    100274: tongue04
+    100276: tongue05
+    100278: tongueBase
+    100280: tongueTip
+    100282: TShirt for Genesis.Shape
+    100284: upperJaw
+    100286: WildMane for Genesis.Shape
+    400000: abdomen
+    400002: abdomen2
+    400004: Bip001
+    400006: Bip001 Footsteps
+    400008: Bip001 Head
+    400010: Bip001 HeadNub
+    400012: Bip001 L Calf
+    400014: Bip001 L Clavicle
+    400016: Bip001 L Finger0
+    400018: Bip001 L Finger01
+    400020: Bip001 L Finger0Nub
+    400022: Bip001 L Finger1
+    400024: Bip001 L Finger11
+    400026: Bip001 L Finger12
+    400028: Bip001 L Finger1Nub
+    400030: Bip001 L Finger2
+    400032: Bip001 L Finger21
+    400034: Bip001 L Finger22
+    400036: Bip001 L Finger2Nub
+    400038: Bip001 L Finger3
+    400040: Bip001 L Finger31
+    400042: Bip001 L Finger32
+    400044: Bip001 L Finger3Nub
+    400046: Bip001 L Finger4
+    400048: Bip001 L Finger41
+    400050: Bip001 L Finger42
+    400052: Bip001 L Finger4Nub
+    400054: Bip001 L Foot
+    400056: Bip001 L Forearm
+    400058: Bip001 L Hand
+    400060: Bip001 L Thigh
+    400062: Bip001 L Toe0
+    400064: Bip001 L Toe0Nub
+    400066: Bip001 L UpperArm
+    400068: Bip001 Neck
+    400070: Bip001 Pelvis
+    400072: Bip001 R Calf
+    400074: Bip001 R Clavicle
+    400076: Bip001 R Finger0
+    400078: Bip001 R Finger01
+    400080: Bip001 R Finger0Nub
+    400082: Bip001 R Finger1
+    400084: Bip001 R Finger11
+    400086: Bip001 R Finger12
+    400088: Bip001 R Finger1Nub
+    400090: Bip001 R Finger2
+    400092: Bip001 R Finger21
+    400094: Bip001 R Finger22
+    400096: Bip001 R Finger2Nub
+    400098: Bip001 R Finger3
+    400100: Bip001 R Finger31
+    400102: Bip001 R Finger32
+    400104: Bip001 R Finger3Nub
+    400106: Bip001 R Finger4
+    400108: Bip001 R Finger41
+    400110: Bip001 R Finger42
+    400112: Bip001 R Finger4Nub
+    400114: Bip001 R Foot
+    400116: Bip001 R Forearm
+    400118: Bip001 R Hand
+    400120: Bip001 R Thigh
+    400122: Bip001 R Toe0
+    400124: Bip001 R Toe0Nub
+    400126: Bip001 R UpperArm
+    400128: Bip001 Spine
+    400130: Bip001 Spine1
+    400132: Bip001 Spine2
+    400134: Boxers for Genesis.Shape
+    400136: chest
+    400138: Genesis
+    400140: Genesis.Shape
+    400142: head
+    400144: hip
+    400146: lBigToe
+    400148: lCarpal1
+    400150: lCarpal2
+    400152: lCollar
+    400154: lEye
+    400156: lFoot
+    400158: lForeArm
+    400160: lHand
+    400162: lIndex1
+    400164: lIndex2
+    400166: lIndex3
+    400168: lMid1
+    400170: lMid2
+    400172: lMid3
+    400174: lowerJaw
+    400176: lPectoral
+    400178: lPinky1
+    400180: lPinky2
+    400182: lPinky3
+    400184: lRing1
+    400186: lRing2
+    400188: lRing3
+    400190: lShin
+    400192: lShldr
+    400194: lThigh
+    400196: lThumb1
+    400198: lThumb2
+    400200: lThumb3
+    400202: lToe
+    400204: neck
+    400206: pelvis
+    400208: rBigToe
+    400210: rCarpal1
+    400212: rCarpal2
+    400214: rCollar
+    400216: rEye
+    400218: rFoot
+    400220: rForeArm
+    400222: rHand
+    400224: rIndex1
+    400226: rIndex2
+    400228: rIndex3
+    400230: rMid1
+    400232: rMid2
+    400234: rMid3
+    400236: rPectoral
+    400238: rPinky1
+    400240: rPinky2
+    400242: rPinky3
+    400244: rRing1
+    400246: rRing2
+    400248: rRing3
+    400250: rShin
+    400252: rShldr
+    400254: rThigh
+    400256: rThumb1
+    400258: rThumb2
+    400260: rThumb3
+    400262: rToe
+    400264: //RootNode
+    400266: Sneakers.Shape
+    400268: tongue01
+    400270: tongue02
+    400272: tongue03
+    400274: tongue04
+    400276: tongue05
+    400278: tongueBase
+    400280: tongueTip
+    400282: TShirt for Genesis.Shape
+    400284: upperJaw
+    400286: WildMane for Genesis.Shape
+    4300000: Genesis.Shape
+    4300002: WildMane for Genesis.Shape
+    4300004: Boxers for Genesis.Shape
+    4300006: TShirt for Genesis.Shape
+    4300008: Sneakers.Shape
+    7400000: LateralRaise
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Boxers for Genesis.Shape
+    13700002: Genesis.Shape
+    13700004: Sneakers.Shape
+    13700006: TShirt for Genesis.Shape
+    13700008: WildMane for Genesis.Shape
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: LateralRaise
+      takeName: Take 001
+      firstFrame: 22
+      lastFrame: 125
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00100000005
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

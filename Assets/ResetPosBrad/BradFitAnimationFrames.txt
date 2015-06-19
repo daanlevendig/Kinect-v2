@@ -1,0 +1,8 @@
+Kick		-	1	-	115
+March		-	85	-	125
+JumpingJacks	-	322	-	357
+SideRaise	-	22	-	125
+FrontRaise	-	95	-	215
+Lunge		-	30	-  	250
+Squat		-	5	-	130
+FrontRotation	-	420	-	495
